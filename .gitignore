@@ -27,3 +27,7 @@ yarn-error.log*
 
 # package json
 package-lock.json
+package
+
+# yarn
+yarn.lock
